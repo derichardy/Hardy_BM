@@ -1,0 +1,61 @@
+body {
+	background-color: #A7DBE3;
+	color: white;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 70px;
+	color: black;
+}
+
+p  {
+	color: #2F4C5C;
+}
+
+/* Hardy CSS box model */
+
+.boxA {
+        width: 25%;
+	margin-top: 10px auto;
+	margin-bottom: 10px auto; 
+	background-color: #EED;
+	border-width: 6px
+	border-style: dotted
+	border-color: #F4A460;
+	padding: 1.5em; 
+	text-align: justify;
+}
+
+.boxB {
+        width: 25em;
+	border-top-color: #2F4F4F;
+	border-top-width: 10px;
+	border-top-style: double;
+	border-bottom-color: #2F4F4F;
+	border-bottom-width: 10px;
+	border-bottom-style: double:
+	background-color: #DEE;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	margin-top: 2em;
+	margin-left: 2em;
+	margin-right: 2em;
+	margin-bottom: 20px
+}
+
+.boxC {
+	margin-left: 464px;
+	margin-right: 125px;
+	margin-top: 3em;
+	margin-bottom: 1.5em;
+	width: 0%;
+	border-style: ridge;
+	border-width: 1em;
+	border-color: FFA07A;
+	padding: 30px;
+	background-color: #DEB887;
+}
+	
